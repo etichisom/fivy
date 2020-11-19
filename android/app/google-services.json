@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "318024270345",
+    "firebase_url": "https://chat-c8f9b.firebaseio.com",
+    "project_id": "chat-c8f9b",
+    "storage_bucket": "chat-c8f9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318024270345:android:58da225dd8ffacd7fd2ed8",
+        "android_client_info": {
+          "package_name": "com.example.fivywork3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318024270345-5ilgaqp6if40qtvq93el6catnugrusbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBhCeqeadtthCBJomhIi3ooL_GF4JLxkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318024270345-5ilgaqp6if40qtvq93el6catnugrusbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
